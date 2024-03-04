@@ -11,7 +11,7 @@ footnotes = "hier kann man Fussnoten einfügen, zum Beispiel als Disclaimer (ern
 
 ### \
 
-Die Überschrift 3 als Untertitel für etwas im Artikel (wenn nicht fett geschrieben)
+### Die Überschrift 3 als Untertitel für etwas im Artikel (wenn nicht fett geschrieben)
 
 wichtige Sachen, wie zum Beispiel **Klimapolitik** ist ein wichtiger Bestandteil der heutigen Zeit, schreibt man fett, um einen Begriff oder kurzen Satz hervorzuheben. \
 \
