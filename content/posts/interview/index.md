@@ -1,11 +1,9 @@
 +++
-title = "Interview"
+title = "# Renovate Switzerland, die bekannte Organsisation im Gespräch"
 date = "2024-03-14"
 draft = false
 pinned = false
 +++
-# Renovate Switzerland, die bekannte Organsisation im Gespräch
-
 ## Selina Lerch ist Mitglied und Mediensprecherin der Organisation, sie beantwortet unter anderem Fragen zur Organisation und ihren Erfahrungen im Protest.
 
 Laurin Steinmann 
