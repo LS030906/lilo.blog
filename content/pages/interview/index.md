@@ -6,7 +6,7 @@ draft = false
 
 ## Selina Lerch ist Mitglied und Mediensprecherin der Organisation, sie beantwortet unter anderem Fragen zur Organisation und ihren Erfahrungen im Protest.
 
-{{<box>}}
+
 Die 29-jährige Klimaaktivistin und Mediensprecherin von Renovate Switzerland ist seit März 2022 Mitglied dieser Organisation. In dieser Funktion trat sie bereits in der SRF-Sendung «Arena» sowie in diversen Radio- und Internetsendungen auf. Neben ihrer Mitgliedschaft bei Renovate Switzerland arbeitet sie als Psychomotorik-Therapeutin in Trimbach. Sie ist im Berner Jura in der Nähe von Bellelay aufgewachsen und lebt derzeit in Biel.
 
 ![23.2.24, Biel/Bienne/ Laurin Steinmann](img_8186.jpeg)
@@ -89,11 +89,10 @@ Es braucht Massnahmen in vielen Sektoren für den Klimaschutz. Der Verkehr ist d
 
 Zu der Zeit, als ich die Aussage getätigt habe, hatte ich noch keinen Job. Ich habe den Protest ein Jahr unentgeltlich gemacht und keine Beschäftigung nebenbei. Damals hatte ich die Freiheit, jetzt bin ich als Psychomotorik-Therapeutin gebunden und habe mit den Kindern eine Art Beziehung, in der es schwierig wäre, sich ein halbes Jahr zu trennen und ich habe ja auch eine Verantwortung gegenüber dem Arbeitgeber. Aus meinem Herz heraus jedoch würde ich diese Aussage aber wieder tätigen.
 
->  **"Aus meinem Herz heraus jedoch würde ich diese Aussage aber wieder tätigen."**\
-> \
-> **Was würden Sie anderen jungen Leuten auf den Weg geben zum Thema Klimaschutz und Sorgen um die Zukunft?**
+>  **"Aus meinem Herz heraus jedoch würde ich diese Aussage aber wieder tätigen."**
 
-
+\
+**Was würden Sie anderen jungen Leuten auf den Weg geben zum Thema Klimaschutz und Sorgen um die Zukunft?**
 
 Ich denke, dass man sich mit den Folgen des Klimawandels für die Gesellschaft auseinandersetzen soll und daraus resultierend sollte man sich überlegen, wie man sich engagieren will. Da gibt es verschiedene Möglichkeiten wie das Gründen einer politischen Partei oder den zivilen Widerstand, den ich als Möglichkeit gewählt habe. Ich habe dies gewählt, weil ich finde, dass es jemanden braucht, der aufsteht, da die Zeit abläuft. Man kann auch sonst politisch aktiv sein
 
