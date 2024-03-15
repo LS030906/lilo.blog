@@ -95,7 +95,6 @@ Zu der Zeit, als ich die Aussage getätigt habe, hatte ich noch keinen Job. Ich 
 >  **"Aus meinem Herz heraus jedoch würde ich diese Aussage aber wieder tätigen."**
 
 \
-\
 **Was würden Sie anderen jungen Leuten auf den Weg geben zum Thema Klimaschutz und Sorgen um die Zukunft?**
 
 Ich denke, dass man sich mit den Folgen des Klimawandels für die Gesellschaft auseinandersetzen soll und daraus resultierend  überlegen soll, wie man sich engagieren will. Da gibt es verschiedene Möglichkeiten wie das Gründen einer politischen Partei oder den zivilen Widerstand, den ich als Möglichkeit gewählt habe. Ich habe dies gewählt, weil ich finde, dass es jemanden braucht, der aufsteht, da die Zeit abläuft. Man kann auch sonst politisch aktiv sein
