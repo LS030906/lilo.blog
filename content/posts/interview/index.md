@@ -12,11 +12,11 @@ Laurin Steinmann
 
 ![23.2.24, Biel/Bienne/ Laurin Steinmann](img_8186.jpeg)
 
-<!--StartFragment-->
+{{<box>}}
 
 Die 29-jährige Klimaaktivistin und Mediensprecherin von Renovate Switzerland ist seit März 2022 Mitglied dieser Organisation. In dieser Funktion trat sie bereits in der SRF-Sendung «Arena» sowie in diversen Radio- und Internetsendungen auf. Neben ihrer Mitgliedschaft bei Renovate Switzerland arbeitet sie als Psychomotorik-Therapeutin in Trimbach. Sie ist im Berner Jura in der Nähe von Bellelay aufgewachsen und lebt derzeit in Biel.
 
-<!--EndFragment-->
+{{</box>}}
 
 Café Atomic in Biel, gegenüber des Bahnhofes. Dort fanden früher Veranstaltungen von Renovate Switzerland statt, die alte Bühne im Inneren des Cafés  erinnert noch daran. 
 
@@ -24,7 +24,7 @@ Café Atomic in Biel, gegenüber des Bahnhofes. Dort fanden früher Veranstaltun
 
 Ja, die Arbeit ist intensiv, da ich mit vielen Personen zu tun habe und auch eine Coaching-Rolle für verschiedene Arbeitsgruppen habe. Ausserdem bin ich Mediensprecherin dieser Organisation. Im Pressebüro kommen teilweise sehr spontan Anfragen rein, auch für grosse Auftritte, und da es bei uns gerade in der Deutschschweiz wenig andere MediensprecherInnen gibt, fällt bei mir viel Arbeit an, gerade nach Kundgebungen, dann ist das Interesse der Medien besonders gross.  
 
-> **"Gerade nach Kundgebungen fählt bei mir aufgrund von spontanen Anfragen der Medien viel Arbeit an.**
+> **"Gerade nach Kundgebungen fällt bei mir aufgrund von spontanen Anfragen der Medien viel Arbeit an.**
 
 \
 **Eine Frage zur Organisation, wie alt sind die Mitglieder von Renovate Switzerland und aus welchen Schichten stammen sie?**
@@ -56,6 +56,8 @@ Ja, das Logo war so gewollt, dass es an Rivella erinnert. Denn wir wollten etwas
 **Können Sie mir und den Lesern erklären, was mit «langsamen Märschen» gemeint ist?**
 
 Mit den langsamen Märschen ist gemeint, dass man betont langsam auf den Strassen läuft. Dies soll auch die politische Langsamkeit symbolisieren, mit der das Problem angegangen wird.
+
+> **"ich habe den zivilen Widerstand gewählt, weil ich finde, dass es jemanden braucht, der aufsteht, da die Zeit abläuft"**
 
 \
 **Ist es möglich, dass der Grund für den Mitgliederschwund, wenn es denn einen gibt, in der Repression und Androhung von hohen Strafen liegt?**
@@ -92,11 +94,9 @@ Es braucht Massnahmen in vielen Sektoren für den Klimaschutz. Der Verkehr ist d
 
 Zu der Zeit, als ich die Aussage getätigt habe, hatte ich noch keinen Job. Ich habe den Protest ein Jahr unentgeltlich gemacht und keine Beschäftigung nebenbei. Damals hatte ich die Freiheit, jetzt bin ich als Psychomotorik-Therapeutin gebunden und habe mit den Kindern eine Art Beziehung, in der es schwierig wäre, sich ein halbes Jahr zu trennen und ich habe ja auch eine Verantwortung gegenüber dem Arbeitgeber. Aus meinem Herz heraus jedoch würde ich diese Aussage aber wieder tätigen.
 
->  **"Aus meinem Herz heraus jedoch würde ich diese Aussage aber wieder tätigen."**
+>  **"Aus meinem Herz heraus jedoch würde ich diese Aussage wieder tätigen."**
 
 \
 **Was würden Sie anderen jungen Leuten auf den Weg geben zum Thema Klimaschutz und Sorgen um die Zukunft?**
 
 Ich denke, dass man sich mit den Folgen des Klimawandels für die Gesellschaft auseinandersetzen soll und daraus resultierend  überlegen soll, wie man sich engagieren will. Da gibt es verschiedene Möglichkeiten wie das Gründen einer politischen Partei oder den zivilen Widerstand, den ich als Möglichkeit gewählt habe. Ich habe dies gewählt, weil ich finde, dass es jemanden braucht, der aufsteht, da die Zeit abläuft. Man kann auch sonst politisch aktiv sein
-
-> **"ich habe den zivilen Widerstand gewählt, weil ich finde, dass es jemanden braucht, der aufsteht, da die Zeit abläuft"**
