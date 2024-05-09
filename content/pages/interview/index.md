@@ -2,7 +2,7 @@
 title = "Interview"
 draft = false
 +++
-# **Renovate Switzerland, Im Gespräch über Klimademonstrationen und spannenden Hintergründen davon**
+# **Renovate Switzerland, Im Gespräch über Klimademonstrationen und die spannenden Hintergründe davon**
 
 ## Selina Lerch ist Mitglied und Mediensprecherin der Organisation. Sie beantwortet unter anderem Fragen zur Organisation und ihren Erfahrungen im Protest.
 
