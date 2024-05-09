@@ -1,12 +1,19 @@
 +++
-title = "Interview 2"
+title = "Interview "
 date = "2024-05-09"
 draft = false
 pinned = false
+image = "img_8186.jpeg"
 +++
 
 
-{{}} Die 29-jährige Klimaaktivistin und Mediensprecherin von Renovate Switzerland ist seit März 2022 Mitglied dieser Organisation. In dieser Funktion trat sie bereits in der SRF-Sendung «Arena» sowie in diversen Radio- und Internetsendungen auf. Neben ihrer Mitgliedschaft bei Renovate Switzerland arbeitet sie als Psychomotorik-Therapeutin in Trimbach. Sie ist im Berner Jura in der Nähe von Bellelay aufgewachsen und lebt derzeit in Biel. {{}}
+**Renovate Switzerland, Im Gespräch über Klimademonstrationen und die spannenden Hintergründe davon**
+
+Selina Lerch ist Mitglied und Mediensprecherin der Organisation. Sie beantwortet unter anderem Fragen zur Organisation und ihren Erfahrungen im Protest.
+
+Laurin Steinmann
+
+<!--EndFragment-->{{box}} Die 29-jährige Klimaaktivistin und Mediensprecherin von Renovate Switzerland ist seit März 2022 Mitglied dieser Organisation. In dieser Funktion trat sie bereits in der SRF-Sendung «Arena» sowie in diversen Radio- und Internetsendungen auf. Neben ihrer Mitgliedschaft bei Renovate Switzerland arbeitet sie als Psychomotorik-Therapeutin in Trimbach. Sie ist im Berner Jura in der Nähe von Bellelay aufgewachsen und lebt derzeit in Biel. {{box}}
 
 Das Interview wurde im Café Atomic in Biel, gegenüber des Bahnhofes geführt. Dort fanden früher Veranstaltungen von Renovate Switzerland statt, die alte Bühne im Inneren des Cafés erinnert noch daran.
 
