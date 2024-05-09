@@ -1,6 +1,7 @@
 +++
 title = "Interview"
 draft = false
+image = ""
 +++
 # **Renovate Switzerland, Im Gespräch über Klimademonstrationen und die spannenden Hintergründe davon**
 
