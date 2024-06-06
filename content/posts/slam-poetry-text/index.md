@@ -3,6 +3,7 @@ title = "Slam-Poetry Text "
 date = "2024-06-06"
 draft = false
 pinned = false
+tags = ["Slampoetry", "Übung", "450Wörter"]
 +++
 
 
