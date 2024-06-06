@@ -3,6 +3,7 @@ title = "Reportage "
 date = "2024-06-06"
 draft = false
 pinned = false
+image = "bildschirmfoto-fu-r-reportage.png"
 +++
 # **Der Kampf für das Klima** 
 
