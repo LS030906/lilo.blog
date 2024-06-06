@@ -1,6 +1,7 @@
 +++
 title = "Reportage (Seite)"
 draft = false
+image = "bildschirmfoto-fu-r-reportage.png"
 +++
 # **Der Kampf für das Klima** 
 
