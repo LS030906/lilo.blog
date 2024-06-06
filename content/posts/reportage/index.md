@@ -23,12 +23,10 @@ Mit dem Beginn der Aktion verändert sich die Stimmung im Saal schlagartig. Die 
 
  
 
- {{<box>}}
 
 Die Organisation Renovate Switzerland ist im Februar 2022 gegründet worden. Ihr Hauptanliegen ist eine bessere thermische Sanierung von Gebäuden, um den Klimawandel zu verlangsamen. Ausserdem macht die Organisation auf die aus ihrer Sicht falsche Klimapolitik der Regierung und den damit drohenden Klimanotstand aufmerksam. Den Klimaaktivismus im moderneren Sinn gibt es schon seit dem «europäischen Naturjahr» 1970. Damals fanden in ganz Europa 200.000 Aktionen statt. 1971 wurde der Zusammenschluss «Friends of the Earth» gegründet.\
 Dieser Zusammenschluss hat heute rund 2 Millionen Mitglieder und ist in 73 Ländern auf der gesamten Welt vertreten.
 
-{{</box>}}
 
 
 
