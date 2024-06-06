@@ -3,7 +3,7 @@ title = "Reportage"
 date = "2024-06-06"
 draft = false
 pinned = false
-tags = ["Climate", "Globalwarming", "Klima", "Klimaschutz", "Aktivismus", "activism", "Renovateswitzerland", "KKL", "Luzern", "Lucerne", "KulturundKongresszentrumLuzern", "2023", "Störaktion"]
+tags = ["Climate", "Globalwarming", "Klima", "Klimaschutz", "Aktivismus", "activism", "Renovateswitzerland", "KKL", "Luzern", "Lucerne", "KulturundKongresszentrumLuzern", "Störaktion"]
 image = "bildschirmfoto-fu-r-reportage.png"
 +++
 # **Der Kampf für das Klima** 
