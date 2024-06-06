@@ -1,6 +1,6 @@
 +++
 headless = true
-name = "Laurin Steinmann "
+name = "My Name"
 image = "/img/default-author.jpg"
 url = "/about/"
 +++
