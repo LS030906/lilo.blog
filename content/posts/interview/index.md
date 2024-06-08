@@ -23,6 +23,8 @@ Das Interview wurde im Café Atomic in Biel, gegenüber des Bahnhofes geführt. 
 Ja, die Arbeit ist intensiv, da ich mit vielen Personen zu tun habe und auch eine Coaching-Rolle für verschiedene Arbeitsgruppen habe. Ausserdem bin ich Mediensprecherin dieser Organisation. Im Pressebüro kommen teilweise sehr spontan Anfragen rein, auch für grosse Auftritte, und da es bei uns gerade in der Deutschschweiz wenig andere MediensprecherInnen gibt, fällt bei mir viel Arbeit an, gerade nach Kundgebungen, dann ist das Interesse der Medien besonders gross.  
 
 > "Gerade nach Kundgebungen fällt bei mir aufgrund von spontanen Anfragen der Medien viel Arbeit an."
+>
+> *Selina Lerch*
 
 \
 **Wie alt sind die Mitglieder von Renovate Switzerland?**
