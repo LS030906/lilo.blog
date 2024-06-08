@@ -1,11 +1,13 @@
 +++
-title = "Renovate Switzerland im Gespräch über Klimademonstrationen und die spannenden Hintergründe davon"
+title = "Interview"
 date = "2024-05-09"
 draft = false
 pinned = false
 tags = ["Climate", "Globalwarming", "Klima", "Klimaschutz", "Aktivismus", "activism", "Renovateswitzerland", "Selinalerch", "Biel", "Bienne"]
 image = "img_8186.jpeg"
 +++
+# Renovate Switzerland im Gespräch über Klimademonstrationen und die spannenden Hintergründe davon
+
 ## Selina Lerch ist Mitglied und Mediensprecherin der Organisation. Sie beantwortet unter anderem Fragen zur Organisation und ihren Erfahrungen im Protest.
 
 Laurin Steinmann
