@@ -6,7 +6,7 @@ pinned = false
 tags = ["Climate", "Klimaschutz", "Aktivismus", "activism", "Renovateswitzerland", "KKL", "Luzern", "Lucerne", "", "2023", "Störaktion"]
 image = "bildschirmfoto-fu-r-reportage.png"
 +++
-![Bild der Aktion vom KKL Luzern ](bildschirmfoto-fu-r-reportage.png)
+![Bild der Aktion, 8.9.23, Luzern](bildschirmfoto-fu-r-reportage.png)
 
 # **Der Kampf für das Klima** 
 
