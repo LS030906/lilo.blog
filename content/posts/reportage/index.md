@@ -26,7 +26,7 @@ Dieser Zusammenschluss hat heute rund 2 Millionen Mitglieder und ist in 73 Länd
 
 {{</box>}}
 
-Nach der Aktion laufen im Pressebüro von Renovate Switzerland die Drähte heiss. «Wir haben sogar Anfragen von der BBC bekommen.» In den darauffolgenden Wochen beantworten Selina und ihr Kollege Anthony viele Presseanfragen und geben zahlreiche Interviews. «Ich denke, dass wir durch diese Aktion die öffentliche Debatte anregen und auf das Thema Klimaschutz aufmerksam machen konnten. Die Tatsache, dass uns der Dirigent das Wort gegeben hat, zeigt, dass er ein Stück weit hinter den Beweggründen steht. Dass er das getan hat, war für uns unerwartet und ein Sieg.» Teils gibt es auch kritische Berichterstattung über die Aktion, diese stosse laut Selina Lerch, 
+Nach der Aktion laufen im Pressebüro von Renovate Switzerland die Drähte heiss. «Wir haben sogar Anfragen von der BBC bekommen.» In den darauffolgenden Wochen beantworten Selina und ihr Kollege Anthony viele Presseanfragen und geben zahlreiche Interviews. «Ich denke, dass wir durch diese Aktion die öffentliche Debatte anregen und auf das Thema Klimaschutz aufmerksam machen konnten. Die Tatsache, dass uns der Dirigent das Wort gegeben hat zeigt, dass er ein Stück weit hinter den Beweggründen steht. Dass er das getan hat, war für uns unerwartet und ein Sieg.» Teils gibt es auch kritische Berichterstattung über die Aktion, diese stosse laut Selina Lerch, 
 
 Mediensprecherin und Verantwortliche des Community-Kreises von Renovate Switzerland, bei der 
 
