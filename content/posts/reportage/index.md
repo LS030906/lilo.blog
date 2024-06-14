@@ -30,9 +30,7 @@ Nach der Aktion laufen im Pressebüro von Renovate Switzerland die Drähte heiss
 
 Mediensprecherin und Verantwortliche des Community-Kreises von Renovate Switzerland, bei der 
 
-Organisation teilweise auf Verständnis, jedoch wird die Notwendigkeit, gewaltfreie 
-
-Aktionendurchzuführen, um auf das Thema Klimaschutz aufmerksam zu machen, betont. Die Organisation versucht, auf Personen mit anderer Meinung zuzugehen und den Dialog mit ihnen zu suchen.
+Organisation teilweise auf Verständnis, jedoch wird die Notwendigkeit, gewaltfreie Aktionen durchzuführen, um auf das Thema Klimaschutz aufmerksam zu machen, betont. Die Organisation versucht, auf Personen mit anderer Meinung zuzugehen und den Dialog mit ihnen zu suchen.
 
 > «Wir haben sogar Anfragen von der BBC bekommen.»
 
