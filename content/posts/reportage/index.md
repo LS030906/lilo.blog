@@ -6,6 +6,8 @@ pinned = false
 tags = ["Climate", "Klimaschutz", "Aktivismus", "activism", "Renovateswitzerland", "KKL", "Luzern", "Lucerne", "", "2023", "Störaktion"]
 image = "bildschirmfoto-fu-r-reportage.png"
 +++
+![Bild der Aktion vom KKL Luzern ](bildschirmfoto-fu-r-reportage.png)
+
 # **Der Kampf für das Klima** 
 
 ## Wie Renovate Switzerland den Kampf für das Klima interpretiert und mit einer konkreten Aktion für mehr Klimaschutz gekämpft hat.
