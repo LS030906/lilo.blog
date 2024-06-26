@@ -8,7 +8,9 @@ image = "bildschirmfoto-fu-r-reportage.png"
 +++
 ![Bild der Störaktion im KKL 8.9.23, Luzern](bildschirmfoto-fu-r-reportage.png)
 
-## Wie Renovate Switzerland den Kampf für das Klima interpretiert und mit einer konkreten Aktion für mehr Klimaschutz gekämpft hat.
+# Wie Renovate Switzerland den Kampf für das Klima interpretiert und mit einer konkreten Aktion für mehr Klimaschutz gekämpft hat.
+
+### Wie die Aktion abgelaufen ist, wie die Reaktionen der Zuschauer waren und aus welchen Beweggründen die Aktion von Renovate Switzerland veranstaltet wurde.
 
 Freitag, 8. September 2023, klassische Musik tönt durch die riesige Halle des Kultur- und Kongresszentrums (KKL) in Luzern, das Ambiente ist wie für ein Konzert im KKL üblich. Die Leute, schön gekleidet, sitzen auf ihren Plätzen und lauschen dem Orchester. Die grosse Halle ist etwas abgedunkelt, das Licht nach vorne auf die Bühne gerichtet, wo das Orchester spielt. Das Orchester wird von Vladimir Jurowski geleitet. Um 21:40 Uhr betreten Selina Lerch und ihr Kollege Anthony, von Renovate Switzerland, die Bühne. «Ich habe grossen Respekt vor der Aktion gehabt. Als ich im Saal gesessen habe, hat mein Herz so stark geklopft, dass ich die Schläge bis in meinen Kopf spüren konnte.» Selina ist aufgeregt, ihre Gedanken ganz bei der Aktion. Sie hat diese Aktion nicht selbst geplant, aber im Briefing mit dem Aktionsdesignteam ihre Ideen eingebracht und sich die Worte überlegt, die sie bei der Aktion sagt, als der Dirigent ihr das Wort übergibt.
 
