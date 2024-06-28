@@ -10,6 +10,8 @@ image = "bildschirmfoto-fu-r-reportage.png"
 
 ## Wie Renovate Switzerland den Kampf für das Klima interpretiert und mit einer konkreten Aktion für mehr Klimaschutz gekämpft hat.
 
+###### Wie die Aktion am 8. September 2023 genau ablief
+
 Freitag, 8. September 2023, klassische Musik tönt durch die riesige Halle des Kultur- und Kongresszentrums (KKL) in Luzern, das Ambiente ist wie für ein Konzert im KKL üblich. Die Leute, schön gekleidet, sitzen auf ihren Plätzen und lauschen dem Orchester. Die grosse Halle ist etwas abgedunkelt, das Licht nach vorne auf die Bühne gerichtet, wo das Orchester spielt. Das Orchester wird von Vladimir Jurowski geleitet. Um 21:40 Uhr betreten Selina Lerch und ihr Kollege Anthony, von Renovate Switzerland, die Bühne. «Ich habe grossen Respekt vor der Aktion gehabt. Als ich im Saal gesessen habe, hat mein Herz so stark geklopft, dass ich die Schläge bis in meinen Kopf spüren konnte.» Selina ist aufgeregt, ihre Gedanken ganz bei der Aktion. Sie hat diese Aktion nicht selbst geplant, aber im Briefing mit dem Aktionsdesignteam ihre Ideen eingebracht und sich die Worte überlegt, die sie bei der Aktion sagt, als der Dirigent ihr das Wort übergibt.
 
 > «Als ich im Saal gesessen habe, hat mein Herz so stark geklopft, dass ich die Schläge bis in meinen Kopf spüren konnte.»
@@ -24,10 +26,14 @@ Dieser Zusammenschluss hat heute rund 2 Millionen Mitglieder und ist in 73 Länd
 
 {{</box>}}
 
+###### Das Geschehen im Pressebüro nach der Aktion
+
 Nach der Aktion laufen im Pressebüro von Renovate Switzerland die Drähte heiss. «Wir haben sogar Anfragen von der BBC bekommen.» In den darauffolgenden Wochen beantworten Selina und ihr Kollege Anthony viele Presseanfragen und geben zahlreiche Interviews. «Ich denke, dass wir durch diese Aktion die öffentliche Debatte anregen und auf das Thema Klimaschutz aufmerksam machen konnten. Die Tatsache, dass uns der Dirigent das Wort gegeben hat, zeigt, dass er ein Stück weit hinter den Beweggründen steht. Dass er das getan hat, war für uns unerwartet und ein Sieg.» Es gibt auch kritische Berichterstattung über die Aktion, diese stosse laut Selina Lerch, Mediensprecherin und Verantwortliche des Community-Kreises von Renovate Switzerland, bei der Organisation zum Teil auf Verständnis, jedoch wird die Notwendigkeit, gewaltfreie Aktionen durchzuführen, um auf das Thema Klimaschutz aufmerksam zu machen, betont. Die Organisation versucht, auf Personen mit anderer Meinung zuzugehen und den Dialog mit ihnen zu suchen.
 
 > «Wir haben sogar Anfragen von der BBC bekommen.»
 
 Selina Lerch kann dabei auf ihre Erfahrung als Mediensprecherin und Verantwortliche des Community-Kreises zurückgreifen. Sie bildet auch selbst Leute in der gewaltfreien Kommunikation und im gewaltfreien Demonstrieren aus. Im Pressebüro kommen jährlich durchschnittlich 50 Anfragen von Schulen und Universitäten für Forschungsprojekte und Vergleichbares herein. Die Organisation hat ausserdem 2023 an 40 Podiumsdiskussionen teilgenommen. Im Durchschnitt erscheinen täglich 6 Artikel über die Organisation.
+
+###### Werden solche Aktionen auch in Zukunft vorkommen?
 
 Diese Aktion wird vielen Konzertbesuchern in Erinnerung bleiben. Wenn es nach der Mehrheit der  Konzertbesucher geht, sollte diese Aktion ein Einzelfall bleiben. Renovate Switzerland schliesst weitere Aktionen in dieser oder ähnlicher Art nicht aus, bis ihre Forderungen erfüllt sind. Grosse Teile der Politik wollen diese Forderungen aber nicht umsetzen und verweisen darauf, dass die Forderungen sehr ambitioniert seien und sich gar nicht in so kurzer Zeit realisieren liessen. Die verhärteten Fronten zwischen Renovate Switzerland und der Politik können dazu führen, dass solche Aktionen häufiger passieren und Kulturinteressierte weiterhin (zumindest für kurze Zeit während einer Veranstaltung) am Genuss von Konzertmusik gehindert werden.
